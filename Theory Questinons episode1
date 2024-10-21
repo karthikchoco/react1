@@ -8,5 +8,27 @@ we will have control when to call particular function
 
 Framework: is a collection of predefined code snippests but framework has control and it will say to devs when to use the code
 
+what is cdn and why we use it?
 
+Ans cdn is a content delivery network of distributed servers which delivers web content to users. the reason why we use it it reduces latency,increases faster 
+reload improves performance of our applications
 
+Geographic Locations: By distributing content across various geographic locations,
+CDNs (Content Delivery Networks) ensure that users access the data from the nearest server. This minimizes the distance the data has to travel, 
+thus reducing latency and improving the speed and efficiency of content delivery 
+
+why react is known  as react?
+And react is known as react it allows devs to react to changes in state and data with in our application and to update ui in decalrative
+
+whAT is crossorigin in script tag?
+Ans cross origin is a attribute which allows cors for loading external js files into our application from different domain
+
+what is difference between react and react dom?
+
+react is a js library and it is used in our app to develop websites
+
+react dom is a pkg which helps react to interact with dom and its responsibitlity is to render react components in web browser
+
+react what to render react dom handles how to render react in browser
+
+**** with the help of react dom only we can render react compo in web browser
